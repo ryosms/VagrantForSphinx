@@ -5,3 +5,4 @@ apt-get install -y python-pip
 
 pip install sphinx
 pip install sphinxtogithub
+pip install sphinx-bootstrap-theme
