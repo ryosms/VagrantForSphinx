@@ -12,3 +12,4 @@ Ubuntu12.04:[hashicorp/precise64](https://vagrantcloud.com/hashicorp/precise64)
 
 - [Sphinx](http://sphinx-users.jp/)
 - [sphinxtogithub](https://pypi.python.org/pypi/sphinxtogithub/1.0.0)
+- [sphinx-bootstrap-theme](http://ryan-roemer.github.io/sphinx-bootstrap-theme/index.html)
